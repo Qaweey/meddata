@@ -1,6 +1,6 @@
 MED-DATA
-This is Defi allow patients to store their medical record and grant access to doctors or any other person to view their medical record. It was built using React and Solidity.
-
+This is Defi allow patients to store their medical record and grant access to doctors or any other person to view their medical record. It was built using React and Solidity. See the hosted site below (live url)
+live url :  https://meddata.vercel.app/
 GETTING STARTED
 Prerequisites
 To run this smart contract, you will need to have tool such as hardhat command.
