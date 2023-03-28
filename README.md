@@ -1,7 +1,9 @@
 MED-DATA
 
 This is  a Defi application that allows patients to store their medical record and grant access to doctors or any other person to view their medical record. It was built using React and Solidity. See the hosted site below (live url)
+
 live url :  https://meddata.vercel.app/
+
 GETTING STARTED
 
 Prerequisites
